@@ -1,7 +1,7 @@
 # AGA with C
 This is a software developed with C language, this software use an Asexual Genetic Algorithm to find an optimised solution.
 
-#Algorithm
+#Algorithm #Genetic #Asexual #FitMathModel #Clanguage
 
 #AGA uses data that was genereted by random process and then select the "best" solution, this rutine runs until find a optimised solution.
 The objective is to find "the optmised values" in this oportunity I use the math model f(x) = a1 * e^(-((x-b1)/c1)^2) + a2 * e^(-((x-b2)/c2)^2),
